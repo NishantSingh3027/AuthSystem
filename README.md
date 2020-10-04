@@ -16,7 +16,7 @@ How to run the application
 2) Run the script in SQL server
 3) Change the server name in connection string as per your DB server. Changes need to be done in web.config file.
 4) Following are the username and password configured in database
-5) UserName : timryan@gmail.com  Password : authinticated
+5) UserName : timryan@gmail.com  Password : authenticated
 6) You need to use these credentials to successfully pass the authentication.
 7) All the bin, obj and downloaded nuget packages has been deleted. So you need to build the entire application once.
 
